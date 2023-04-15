@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>My Website</title>
+    <!-- <link rel="stylesheet" href="./style.css"> -->
+   
+  </head>
+  <body>
+    <script>
+
+        
+ 
+
+
+  setTimeout(()=>{
+    console.log('Hacking Wifi....Please wait....')
+  },2000) 
+
+  setTimeout(()=>{
+    console.log('Fethcing data....Please wait....')
+  },3000)
+
+  try{
+    console.log(harry)
+  }
+  catch(error){
+    console.log(`Error occured at : ${error}`)
+  }
+ 
+  setTimeout(()=>{
+    console.log('Fetching Username....Please wait....')
+  },4000)
+
+  setTimeout(()=>{
+    console.log('Fetching password....Please wait....')
+  },5000)
+
+  
+  setTimeout(()=>{
+    console.log('..Hacking Done succefully......')
+  },6000) 
+
+
+
+    </script>
+  </body>
+</html>
