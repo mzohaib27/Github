@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>My Website</title>
+    <!-- <link rel="stylesheet" href="./style.css"> -->
+   
+  </head>
+  <body>
+    <script>
+
+        
+//     const p1 = new Promise((resolve, reject) => {
+//       setTimeout (()=>{
+//         let roll_no = [1,2,3,4,51,6];
+//        resolve(roll_no);
+//           },2000)
+       
+//     })
+
+
+//     const getbioData = (indexdata) =>{
+//       return new Promise((resolve, reject) => {
+//         setTimeout((indexdata)=>{
+//           let bioData = {
+//           name : 'Zohaib',
+//           age : 26,
+//           gender : 'Male'
+//         }
+//         resolve(`My name is ${bioData.name} and i am ${bioData.age} years old and i am an alpha ${bioData.gender} and my roll no is ${indexdata}`)
+//         },2000,indexdata)       
+//       })
+//     }
+
+
+// async function getdata (){
+//   try{
+//     const data = await p1;
+//   console.log(data)
+
+//   const biodatas = await getbioData(data[4])
+//   console.log(biodatas)
+//   } catch(error){
+//   console.log(`The Error is : ${error}`);
+//   }
+  
+// }
+
+// getdata();
+
+// wheather portion
+
+// async function getwheather() {
+//   let isW = new Promise((resolve, reject) => {
+//     setTimeout(()=>{
+//       resolve("islambad temperature is 24 deg")
+//     },5000)
+    
+//   })
+
+//   let lhrW = new Promise((resolve, reject) => {
+//     setTimeout(()=>{
+//       resolve("Lahore temperature is 32 deg")
+//     },9000)
+    
+//   })
+//   try {
+//     console.log('islmbd w is fetching')
+//   let iw = await isW;
+//   console.log(iw)
+  
+//   console.log('lahore w is fetching')
+//  let lw = await lhrW; 
+//  console.log(lw)
+//  return (iw,lw);
+//   } catch(error){
+//  console.log(`Error is : ${error}`)
+//   }
+ 
+
+// }
+// getwheather();
+
+
+
+  //   -----------finish--------
+
+
+  setTimeout(()=>{
+    console.log('Hacking Wifi....Please wait....')
+  },2000) 
+
+  setTimeout(()=>{
+    console.log('Fethcing data....Please wait....')
+  },3000)
+
+  try{
+    console.log(harry)
+  }
+  catch(error){
+    console.log(`Error occured at : ${error}`)
+  }
+ 
+  setTimeout(()=>{
+    console.log('Fetching Username....Please wait....')
+  },4000)
+
+  setTimeout(()=>{
+    console.log('Fetching password....Please wait....')
+  },5000)
+
+  
+  setTimeout(()=>{
+    console.log('..Hacking Done succefully......')
+  },6000) 
+
+
+
+    </script>
+  </body>
+</html>
